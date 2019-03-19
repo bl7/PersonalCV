@@ -35,6 +35,16 @@ hr {
 
 
 /* components */
+.personal {
+    width: 80%;
+    padding: 8px 0;
+    margin: 8px 12px;
+}
+
+.border-b {
+    border-bottom: 2px solid;
+}
+
 .details {
     width: 80%;
     margin: 0 auto;
